@@ -49,3 +49,14 @@ a:hover{
     margin-right: auto;
     display: block;
 }
+.container-planet{
+    margin: 30px 100px 30px 100px;
+    width: 80%;
+    height: 100%;
+    background-color: black;
+    color: yellow;
+    
+}
+.img-table{
+    width: 350px;
+}
